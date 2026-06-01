@@ -22,7 +22,6 @@ I am a passionate B.Tech Computer Science student, Python Developer, and aspirin
 ---
 
 ## 🌐 Connect With Me
-
 <a href="www.linkedin.com/in/rohit-rajput-379082326" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
 </a>6
