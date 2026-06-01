@@ -25,7 +25,7 @@ I am a passionate B.Tech Computer Science student, Python Developer, and aspirin
 
 <a href="www.linkedin.com/in/rohit-rajput-379082326" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-</a>
+</a>6
 <a href="https://github.com/raajputroohit12-dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
